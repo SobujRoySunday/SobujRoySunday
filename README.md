@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sorbopriyo Roy</h1>
+<h1 align="center">Hi 👋, I'm Sorbopriyo Roy aka Sobuj</h1>
 <h3 align="center">A fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sobujroysunday&label=Profile%20views&color=0e75b6&style=flat" alt="sobujroysunday" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sobujroysunday" alt="sobujroysunday" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently gaining experience in **MERN STACK**
 
 - 💬 Ask me about **Front-end Development and API handling**
 
-- 📫 How to reach me **sorbopriyo.roy.it.2022@tint.edu.in**
+- 📫 How to reach me **sorbopriyo@gmail.com**
 
 - ⚡ Fun fact **I don't have that much caffeine in my blood**
 
